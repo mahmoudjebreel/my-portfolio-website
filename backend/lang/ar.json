@@ -1,0 +1,21 @@
+{
+    "Use lowercase Latin letters, numbers and single hyphens.": "استخدم أحرفًا لاتينية صغيرة وأرقامًا وشرطات مفردة.",
+    "This slug is already used by another project in this language.": "يستخدم مشروع آخر هذا المعرّف في هذه اللغة.",
+    "Fill in the content in at least one language.": "املأ المحتوى بلغة واحدة على الأقل.",
+    "To publish, complete the English and Arabic content.": "لنشر المشروع، أكمل المحتوى العربي والإنجليزي.",
+    "This language is incomplete.": "هذه اللغة غير مكتملة.",
+    "This name is already used by another category in this language.": "يستخدم تصنيف آخر هذا الاسم في هذه اللغة.",
+    "This slug is already used by another category in this language.": "يستخدم تصنيف آخر هذا المعرّف في هذه اللغة.",
+    "The slug may only contain lowercase Latin letters, numbers and single hyphens.": "يجب أن يحتوي المعرّف على أحرف لاتينية صغيرة وأرقام وشرطات مفردة فقط.",
+    "Fill in the name in at least one language.": "املأ الاسم بلغة واحدة على الأقل.",
+    "This name is already used by another technology.": "تستخدم تقنية أخرى هذا الاسم.",
+    "This slug is already used by another technology.": "تستخدم تقنية أخرى هذا المعرّف.",
+    "The icon may only contain letters, numbers and . _ : / -": "يجب أن تحتوي الأيقونة على أحرف وأرقام و . _ : / - فقط.",
+    "Image processing is not available on this server.": "معالجة الصور غير متاحة على هذا الخادم.",
+    "The image may not be larger than 5 MB.": "يجب ألا يتجاوز حجم الصورة 5 ميغابايت.",
+    "The file is not a valid JPG, PNG or WebP image.": "الملف ليس صورة JPG أو PNG أو WebP صالحة.",
+    "The image dimensions are too large (at most 8000 × 8000 pixels).": "أبعاد الصورة كبيرة جدًا (8000 × 8000 بكسل كحد أقصى).",
+    "The image could not be processed.": "تعذّرت معالجة الصورة.",
+    "The file could not be uploaded. It may be larger than the server allows.": "تعذّر رفع الملف. ربما يتجاوز الحجم الذي يسمح به الخادم.",
+    "Only JPG, PNG and WebP images are accepted.": "تُقبل صور JPG وPNG وWebP فقط."
+}

@@ -1,0 +1,5 @@
+# Local safety net: this project is never served directly by Apache.
+# Laragon's default vhost exposes C:/laragon/www, which would make
+# backend/.env and other private files downloadable. Development uses
+# `php artisan serve` and the Vite dev server instead.
+Require all denied
